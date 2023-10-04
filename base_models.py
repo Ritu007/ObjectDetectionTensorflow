@@ -30,7 +30,7 @@ DROPOUT_FACTOR = 0.5
 input_size = 64
 CLASSES = 11
 EPOCHS = 100
-BATCH_SIZE = 2
+BATCH_SIZE = 16
 
 
 def build_feature_extractor(inputs):
